@@ -1,0 +1,9 @@
+title: My Virtual Study
+author: masodik
+description: > # this means to ignore newlines until "baseurl:"
+  This is my blog. Let me share my thougts with you.
+# social links
+github_username:  masodik # DO NOT include the @ character, or else the build will fail!
+
+show_excerpts: true # set to false to remove excerpts on the homepage
+theme: minima
