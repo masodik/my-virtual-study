@@ -1,6 +1,6 @@
 ---
-Title: The ethmoid bone
-Date: 2020-05-29
+title: The ethmoid bone
+date: 2020-05-29
 ---
 Our head is made up of several different bones. Among them you can find such that are easy to observe, due to their position 
 and function. But there are other bones, like the ethmoid bone, (os ethmoidale) that are even hard to imagine.
