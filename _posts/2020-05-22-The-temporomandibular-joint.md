@@ -3,7 +3,7 @@ title: The articularis temporomandibularis
 date: 2020-05-22
 ---
 
-The title seems to be a very difficult and incomprehensible one, but i will translate it for you. The articularis means joint in latin. So we are discussing a joint right now. I have already studied the bones of the skull, among them I wrote about the temporal bone and the mandibula. This joint is found  where these bones meet. Hence its name.
+The title seems to be a very difficult and incomprehensible one, but I will translate it for you. The articularis means joint in latin. So we are discussing a joint right now. I have already studied the bones of the skull, among them I wrote about the temporal bone and the mandibula. This joint is found  where these bones meet. Hence its name.
 
 Your mandibula, the lower jaw has 2 process. The posterior one, which is far from your eyes is called processus condilaris mandibulae meets your temporal bone in a foss, that is called *fossa mandibularis*. They are connected to each other with a disc between them. It is called *discus articularis*. When you move your jaw towards, then the end of the mandibular process "comes out" from the pit and climbs up to the crest of the so called tuberculum articulare in front of him. But the disc moves with the bone, so the bones do not touch each other. The disc is a cartilage like substance that contains no wessels, nor nerves therefore it is not painful that it got nipped between the bones. When you pull your jaw back, the bone comes back into the *fossa* with the disc covering its end.
 
